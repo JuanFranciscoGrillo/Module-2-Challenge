@@ -1,24 +1,26 @@
-/* Global Styles */
+/*I prefer using px instead of em if you want me to use em let me know in comments*/
+
+/*Assigned box sizing, margins and padding*/
 * {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
     }
-/* Body Styles */
+/*Assigned font family and background color (line #13)*/
 body {
     font-family: sans-serif;
     background-color: #ffffff;
     }
-/* Header Styles */
+/*Assigned background color, padding, display, justify content, align-items and color (line #15)*/
 header {
     background-color: #ffffff;
-    padding: 20px;
+    padding: 20px; 
     display: flex;
     justify-content: space-between;
     align-items: center;
     color: black;
     }
-/* Navbar Styles */
+/*Attributes were assigned to edit horizontal navigation bar appearance (Line #17)*/
 .navbar {
     list-style-type: none;
     margin-right: 10px;
@@ -30,58 +32,64 @@ header {
 .navbar li a:hover {
     color: #666;
     }
-/* Main Styles */
+/*Assigned flex wrap, display and text align (line #33)*/
 main {
     display: flex;
     flex-wrap: wrap;
     text-align: right;
     }
-/* Aside Styles */
+/*Assigned background color, flex, padding and color (line #35)*/
 aside {
     flex: 1;
     background-color: #ffffff;
     padding: 20px;
     color: black;
     }
-/* Section Styles */
+/*Assigned color, flex and padding (line #44)*/
 section {
     flex: 2;
     padding: 20px;
     color: black;
     }
-/* ID Styles */
+/*Assigned id to the section to edit height and width (Line #51)*/
 #SSS,
+/*Assigned id to the section to edit height and width (Line #52)*/
 #MCS,
+/*Assigned id to the section to edit height and width (Line #53)*/
 #LPC {
     height: 100px;
     width: 100px;
-    }
-/* Class Styles */
+}
+/*Assigned class to input image (Line#27)*/
 .CONTAINER {
     position: relative;
     text-align: center;
     color: white;
     }
+/*Assigned class to input text inside the image (Line#31)*/
 .BOTTOM-RIGHT {
     position: absolute;
     bottom: 8px;
     right: 16px;
     }
-/* ID Specific Styles */
+/*Assigned id to the section to edit border and height (Line #19)*/
 #ABOUT-ME {
     height: 180px;
     border-right: solid;
     }
+/*Assigned id to the section to edit border, text-align and height (Line #20)*/
 #WORK {
     height: 80px;
     text-align: right;
     border-right: solid;
     }
+/*Assigned id to the section to edit border, text-align and height (Line #21)*/
 #CONTACT-ME {
     height: 30px;
     text-align: right;
     border-right: solid;
     }
+/*Assigned id to the section to edit height (Line #46)*/
 #ABOUT-ME-PARAGRAPH {
     height: 180px;
     }
