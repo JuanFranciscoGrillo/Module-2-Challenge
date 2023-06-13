@@ -1,4 +1,4 @@
-1. Project's Title
+ Project's Title
 
 a. Juan F. Grillo
 
@@ -12,8 +12,7 @@ c. This webpage will display all the contact information of Mr. Grillo.
 
 d. This webpage will let the employer prospect get to know about Mr. Grillo's employment history, skills and qualifications.
 
-
-3. Table of Contents
+ Table of Contents
 
 a. This repository contains the following files:
 
@@ -29,7 +28,7 @@ a. This repository contains the following files:
 
 4. How to Install and un the Project
 
-To access webpage you must perform at least one of the following steps:
+ To access webpage you must perform at least one of the following steps:
 
 a. Click on GitHub repository link (For Editing)
 
@@ -37,10 +36,9 @@ a. Click on GitHub repository link (For Editing)
 
 b. Visit the deployed website link (For Review)
 
- II. https://juanfranciscogrillo.github.io/Module-1-Challenge/
+ II. https://juanfranciscogrillo.github.io/Module-2-Challenge/
 
-
-How to use the project
+ How to use the project
 
 a. Navigate thru the upper horizontal navigation bar and click on the information that you're interested and it will guide the user to the section of the web page with that information.
 

@@ -1,20 +1,15 @@
 /* Global Styles */
-
 * {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
     }
-
 /* Body Styles */
-
 body {
     font-family: sans-serif;
     background-color: #ffffff;
     }
-
 /* Header Styles */
-
 header {
     background-color: #ffffff;
     padding: 20px;
@@ -23,95 +18,74 @@ header {
     align-items: center;
     color: black;
     }
-
 /* Navbar Styles */
-
 .navbar {
     list-style-type: none;
     margin-right: 10px;
-}
-
+    }
 .navbar li a {
     text-decoration: none;
     color: #ffffff;
     }
-
 .navbar li a:hover {
     color: #666;
     }
-
 /* Main Styles */
-
 main {
     display: flex;
     flex-wrap: wrap;
     text-align: right;
     }
-
 /* Aside Styles */
-
 aside {
     flex: 1;
     background-color: #ffffff;
     padding: 20px;
     color: black;
     }
-
 /* Section Styles */
-
 section {
     flex: 2;
     padding: 20px;
     color: black;
     }
-
 /* ID Styles */
-
 #SSS,
 #MCS,
 #LPC {
     height: 100px;
     width: 100px;
     }
-
 #SUSTECH {
     height: 100px;
     width: 200px;
     }
-
 /* Class Styles */
-
 .CONTAINER {
     position: relative;
     text-align: center;
     color: white;
     }
-
 .BOTTOM-RIGHT {
     position: absolute;
     bottom: 8px;
     right: 16px;
     }
-
 /* ID Specific Styles */
-
 #ABOUT-ME {
     height: 180px;
     border-right: solid;
     }
-
 #WORK {
     height: 80px;
     text-align: right;
     border-right: solid;
     }
-
 #CONTACT-ME {
     height: 30px;
     text-align: right;
     border-right: solid;
     }
-
 #ABOUT-ME-PARAGRAPH {
     height: 180px;
     }
