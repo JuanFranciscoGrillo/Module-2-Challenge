@@ -11,22 +11,26 @@ b. This webpage was design to give the potential the option to establish contact
 c. This webpage will display all the contact information of Mr. Grillo.
 
 d. This webpage will let the employer prospect get to know about Mr. Grillo's employment history, skills and qualifications.
+	
+e. This webpage will display a link that lets the employer prospect see Mr. Grillo's Resume.
 
  Table of Contents
 
 a. This repository contains the following files:
 
- I. Readme file
+I. Readme file
 
- II. index html file
+II. index html file
 
- III. CSS Stylesheet Path: assets/css/style.css
+III. CSS Stylesheet Path: assets/css/style.css
 
- IV. Image files used for webpage Path: assets/images 
+IV. CSS Reset Path: assets/css/reset.css
+
+V. Image files used for webpage Path: assets/images 
  
- V. PDF files used for webpage Path: assets/files 
+VI. PDF files used for webpage Path: assets/files 
 
-4. How to Install and un the Project
+4. How to Install and Run the Project
 
  To access webpage you must perform at least one of the following steps:
 
